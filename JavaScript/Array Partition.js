@@ -1,5 +1,4 @@
 var arrayPairSum = function(nums) {
-  	debugger;
 	if(nums.length === 2){
 	    return Math.min(nums[0], nums[1]);
 	}
